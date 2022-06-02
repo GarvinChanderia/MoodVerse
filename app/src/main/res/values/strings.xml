@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Variables -->
+
+    <string name="username">User</string>
+    <string name="spotify_title">login to use this feature</string>
+    <string name="quote">It is during our darkest moments that we must focus to see the light.</string>
+    <string name="spotify_album">""</string>
+    <string name="score">99</string>
+    <string name="avg_mood">Extremely Positive</string>
+    <string name="mood_react">keep it up!</string>
+
+    <!-- Constants -->
+
+    <string name="app_name">MoodverseV1</string>
+    <string name="text_home">Home</string>
+    <string name="text_analytics">Analytics</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_app">MoodVerse</string>
+    <string name="quote_header">Quote Of The Day:</string>
+    <string name="today_header">Today</string>
+    <string name="analytic_question">How Was Your Day?</string>
+    <string name="score_header">You Scored</string>
+
+</resources>
